@@ -7,4 +7,4 @@
 Cpu : intel i7 4710HQ
 Gpu : intel HD 4600 + nvidia 850m "disabled"
 wifi card : Intel centrino
-Download : https://disk.yandex.com/d/gLaMJHAOw8LM0Q
+Download : https://disk.yandex.com/d/Fx99JtaHbtrncw
