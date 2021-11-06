@@ -1,4 +1,5 @@
-# OpenCore-haswell
+# OpenCore-haswell-core-i7-HD4600-Graphic
+
 
 السلام عليكم اخواني
 تفضلو مجلد الاقلام EFI opencore 0.7.6 الخاص بأجهزة i7 الجيل الرابع i7 4710HQ
