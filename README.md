@@ -1,4 +1,4 @@
-# OpenCore-haswell-core-i7-HD4600-Graphic
+# OpenCore haswell core i7 HD4600 Graphic
 
 
 السلام عليكم اخواني
